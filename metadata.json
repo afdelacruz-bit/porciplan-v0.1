@@ -1,0 +1,6 @@
+{
+  "name": "PorciPlan",
+  "description": "Planificación técnica y económica de instalaciones porcinas para pequeños y medianos productores.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
